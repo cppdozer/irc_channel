@@ -56,4 +56,5 @@ Command List
   
 ### License
 This project is licensed under the MIT License.
-\nCoded by **cppdozer**
+<br>
+Coded by **[cppdozer](https://github.com/cppdozer)**
