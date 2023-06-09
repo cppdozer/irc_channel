@@ -54,5 +54,6 @@ Command List
 - enter <room_name>: Join the specified chat room.
 - whereami: Display the current chat room.
   
-###License
+### License
 This project is licensed under the MIT License.
+\nCoded by **cppdozer**
