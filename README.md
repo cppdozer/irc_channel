@@ -21,22 +21,22 @@ This repository contains a client-server chat application implemented in C. The 
 
 1. Clone the repository:
 
-   ```shell
+```shell
    git clone <repository-url>
-   ```
-   
+```
+2. Compile the source files:   
 ```shell 
   gcc client.c -o client -lpthread
   gcc server.c -o server -lpthread
   ```
 
-Start the server:
+3. Start the server:
 
 ```shell
 ./server
 ```
 
-Start the client(s):
+4. Start the client(s):
 
 ```shell
 ./client
